@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodeWithAnkit1
 - 👀 I’m interested in ... DataScience, Python queries
-- 🌱 I’m currently learning ... Datascience concepts
+- 🌱 I’m working on GenAI/AgenticAI/ML/DeepLearning concepts
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
 
